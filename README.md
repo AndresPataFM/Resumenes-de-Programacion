@@ -1,8 +1,8 @@
 # Resmunes De Programacion
 Esta es una compilación de mis resumenes de programación que hice para mis alumnos. Se pueden encontrar los siguientes:
 
-## Inspector del ordenador
-* [Inspector del Ordenador](https://docs.google.com/document/d/1AmGpUM12YeZpPiPMViXI6yXHTow6Kx-8nwicWfPkHpA/edit?usp=sharing) _En progreso_
+## Developer Toolbox (inspector/consola)
+* [Developer Toolbox del Ordenador](https://docs.google.com/document/d/1AmGpUM12YeZpPiPMViXI6yXHTow6Kx-8nwicWfPkHpA/edit?usp=sharing) _En progreso_
 
 ## HTML y CSS
 * [Conceptos básicos de Desarrollo Web](https://docs.google.com/document/d/1MwgIkBANZFavYaZ1Lc1AtsYB7pWFpyCEHWFLEJ0T06A/edit?usp=sharing)
